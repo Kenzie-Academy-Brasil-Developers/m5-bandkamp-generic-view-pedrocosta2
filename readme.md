@@ -29,10 +29,10 @@ python -m venv venv
 2. Ative seu venv:
 ```bash
 # linux:
-source venv/bin/activate
+source venv/Scripts/activate
 
 # windows:
-.\venv\Scripts\activate
+.\venv\\activate
 ```
 
 3. Instale o pacote `pytest-testdox`:
